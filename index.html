@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Three.js - Training</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      body {
+        margin: 0px;
+        padding: 0px;
+        max-width: 100vw;
+        max-height: 100vh;
+        overflow: hidden;
+        font-family: sans-serif;
+      }
+      #popUp{
+            background: white;
+            max-width: 300px;
+            padding: 1.5rem;
+        }
+      .message{
+        position: fixed;
+        z-index: 10;
+        bottom: 1rem;
+        left: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container"></div>
+    <p class="message">Right click in a paints or in the statue to see a popup</p>
+    <script type="module" src="./src/main.js">
+    </script>
+  </body>
+</html>
