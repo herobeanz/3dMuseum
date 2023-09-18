@@ -1,5 +1,6 @@
 # 3dMuseum
 Dự án xây dựng bảo tàng nghệ thuật 3D
+- Công nghệ sử dụng: Html, Css, JavaScript, WebGL, Threejs
 - Thời gian: 04/2023 - 08/2023
 - Mô tả dự án:
   Xây dựng một website mô phỏng bảo tàng nghệ thuật 3D trưng bày các bức họa nổi tiếng thời phục hưng của các họa sĩ nổi tiếng như Leonardo Da Vinci, Sandro Botticelli, VanGogh, ... cùng một số bức tượng nổi tiếng thời phục hưng như tượng lực sĩ ném đĩa, tượng thiên thần cầm đuốc, ...
